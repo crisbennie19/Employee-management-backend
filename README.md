@@ -1,1 +1,1 @@
-A simple CRUD application using Java Spring boot
+A simple Employee mangement application using Java Spring boot
